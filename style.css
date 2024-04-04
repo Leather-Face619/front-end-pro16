@@ -19,6 +19,10 @@
 *::selection{
     background-color: var(--salmon);
 }
+
+.vdodiv{
+    clip-path: circle(var(--clip) at 50% 50%);
+}
 body[theme="black"]{
     background-color:var(--black);
 }
